@@ -27,4 +27,5 @@ Web
   
   ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=juwonk1018&show_icons=true&count_private=true&line_height=24&theme=merko)
 
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=aju540)](https://solved.ac/aju540)
 </div>
