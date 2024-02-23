@@ -29,7 +29,7 @@ E-mail : kjon1018@gmail.com
 
 #### Tool
 
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Github-000000?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=Amazon-S3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Github-000000?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=Amazon-S3&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira-software&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
   
   ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=juwonk1018&show_icons=true&count_private=true&line_height=24&theme=merko)
 </div>
