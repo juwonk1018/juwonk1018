@@ -28,13 +28,12 @@ E-mail : kjon1018@gmail.com
   
   
    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
    <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-   <img src="https://img.shields.io/badge/Recoil-764ABC?style=flat-square&logo=recoil&logoColor=white"> 
-   <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=zustand&logoColor=white"> 
-   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"> 
-   <img src="https://img.shields.io/badge/tailwind CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white">
+   
 
+   
 <br/><br/>
 
 #### Tool
